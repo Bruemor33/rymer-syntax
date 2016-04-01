@@ -1,0 +1,15 @@
+{
+  "name": "rymer-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "I wanted to make a theme based on the colors of the ocean",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/Bruemor33/rymer-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
